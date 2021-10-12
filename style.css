@@ -96,3 +96,9 @@ a:link    { color: rgb(39, 218, 23);  }
 a:visited { color: red;   }
 a:hover   { color: rgb(6, 10, 245); }
 a:active  { color: rgb(255, 111, 255);  }
+
+a.current:link    { color: blue;  }
+a.current:visited { color: red;   }
+a.current:hover   { color: green; }
+a.current:active  { color: rgb(255, 111, 255);  }
+
