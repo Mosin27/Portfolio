@@ -14,7 +14,7 @@ header {
     height: fit-content;
     color: whitesmoke;
     font-family: magneto;
-    background-color: lightblue;
+    background-color: black;
     background-image: url(images/backgrounds/space-earth.jpg);
     font-size: 34px;
     margin: 0;
@@ -38,6 +38,7 @@ footer {
     height: fit-content;
     margin: 0;
     padding: 40px;
+    background-color: black;
 }
 
 h2 {
